@@ -1,0 +1,35 @@
+{
+    "name": "react-hooks-identicons",
+    "version": "1.0.0",
+    "description": "An identicon component for React.",
+    "main": "build/index.js",
+    "scripts": {
+        "build": "rm -rf build && webpack"
+    },
+    "peerDependencies": {
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.8.4",
+        "@babel/plugin-proposal-object-rest-spread": "^7.8.3",
+        "@babel/plugin-transform-react-jsx": "^7.8.3",
+        "@babel/preset-env": "^7.8.4",
+        "@babel/preset-react": "^7.8.3",
+        "babel-loader": "^8.0.6",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "webpack": "^4.41.6",
+        "webpack-cli": "^3.3.11"
+    },
+    "keywords": [
+        "identicon",
+        "component",
+        "react",
+        "hooks",
+        "avatar"
+    ],
+    "author": "Timo Zimmermann",
+    "repository": "https://github.com/jz222/react-hooks-identicons",
+    "license": "ISC"
+}
