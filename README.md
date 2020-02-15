@@ -20,7 +20,7 @@ yarn add react-hooks-identicons
 
 ## Usage
 
-```
+```javascript
 import React from 'react';
 import Identicon from 'react-hooks-identicons';
 
