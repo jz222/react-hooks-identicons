@@ -26,7 +26,7 @@ import Identicon from 'react-hooks-identicons';
 
 const App = () => {
     return (
-        <Identicon string="user@example.com" />
+        <Identicon string='user@example.com' />
     );
 };
 
