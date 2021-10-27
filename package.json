@@ -1,6 +1,6 @@
 {
     "name": "react-hooks-identicons",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "An identicon component for React.",
     "main": "build/index.js",
     "scripts": {
