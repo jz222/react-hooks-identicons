@@ -1,14 +1,14 @@
 {
     "name": "react-hooks-identicons",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "An identicon component for React.",
     "main": "build/index.js",
     "scripts": {
         "build": "rm -rf build && webpack"
     },
     "peerDependencies": {
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2"
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
     },
     "devDependencies": {
         "@babel/core": "^7.8.4",
@@ -17,8 +17,8 @@
         "@babel/preset-env": "^7.8.4",
         "@babel/preset-react": "^7.8.3",
         "babel-loader": "^8.0.6",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
         "webpack": "^4.41.6",
         "webpack-cli": "^3.3.11"
     },
